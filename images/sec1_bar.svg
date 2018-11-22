@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1279.499 239.442">
+    <defs>
+        <style>
+            .cls-1,.cls-6{fill:none}.cls-1{stroke:#00ffae;opacity:.802}.cls-2,.cls-3,.cls-4{fill:#00ffae}.cls-2{font-size:48px;font-family:SourceSansPro-Black,Source Sans Pro;font-weight:800}.cls-3{opacity:.996}.cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="Group_183" data-name="Group 183" transform="translate(312.734 -1218.836)">
+        <g id="Group_130" data-name="Group 130" transform="translate(209.36 1218.836)">
+            <g id="Group_122" data-name="Group 122">
+                <g id="Ellipse_16" class="cls-1" data-name="Ellipse 16">
+                    <circle cx="118.988" cy="118.988" r="118.988" class="cls-5"/>
+                    <circle cx="118.988" cy="118.988" r="118.488" class="cls-6"/>
+                </g>
+            </g>
+            <text id="Brief" class="cls-2" transform="translate(116.446 132.767)">
+                <tspan x="-52.752" y="0">Brief</tspan>
+            </text>
+            <path id="Intersection_3" d="M88.54 40.96C53.379 40.96 21.783 25.146 0 0h177.078C155.3 25.146 123.7 40.96 88.54 40.96z" class="cls-3" data-name="Intersection 3" transform="translate(30.449 198.482)"/>
+        </g>
+        <path id="Path_93" d="M-255.811-.444L258.229 0l50.76 40.96h-564.8z" class="cls-4" data-name="Path 93" transform="translate(-56.922 1416.726)"/>
+        <path id="Path_94" d="M-255.687 40.96h513.541L308.54 0h-564.227z" class="cls-4" data-name="Path 94" transform="rotate(180 355.539 727.275)"/>
+    </g>
+</svg>

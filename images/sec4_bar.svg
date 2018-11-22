@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1283.473 235.781">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #00ffae;
+      }
+
+      .cls-1 {
+        font-size: 42px;
+        font-family: SourceSansPro-Black, Source Sans Pro;
+        font-weight: 800;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #00ffae;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_207" data-name="Group 207" transform="translate(246.768 -2360)">
+    <g id="Group_137" data-name="Group 137" transform="translate(-85 2360)">
+      <g id="Group_133" data-name="Group 133" transform="translate(411.737 16.326)">
+        <text id="Explore" class="cls-1" transform="translate(72 41)"><tspan x="-71.778" y="0">Explore</tspan></text>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" class="cls-2" transform="translate(361.59)">
+        <circle class="cls-4" cx="117.891" cy="117.891" r="117.891"/>
+        <circle class="cls-5" cx="117.891" cy="117.891" r="117.391"/>
+      </g>
+      <g id="Group_134" data-name="Group 134" transform="translate(552.502 80.051)">
+        <path id="Path_100" data-name="Path 100" class="cls-3" d="M-207.515,35.191H221.538L265.085,0h-472.6Z" transform="translate(360.101 75.661) rotate(180)"/>
+        <path id="Path_102" data-name="Path 102" class="cls-3" d="M-161.593,35.191h383.13L265.085,0H-161.593Z" transform="translate(407.61 35.191) rotate(180)"/>
+      </g>
+      <g id="Group_135" data-name="Group 135" transform="translate(407.61 236.652) rotate(180)">
+        <path id="Path_101" data-name="Path 101" class="cls-3" d="M-209.277,0H221.538l43.547,35.191H-209.277Z" transform="translate(360.101 116.131) rotate(180)"/>
+        <path id="Path_103" data-name="Path 103" class="cls-3" d="M-160.444,0H221.538l43.547,35.191H-160.444Z" transform="translate(407.61 156.601) rotate(180)"/>
+      </g>
+    </g>
+    <path id="Intersection_5" data-name="Intersection 5" class="cls-3" d="M117.891,154.842A117.978,117.978,0,0,1,5.907,0H229.874A117.979,117.979,0,0,1,117.891,154.842Z" transform="translate(276.589 2440.94)"/>
+  </g>
+</svg>

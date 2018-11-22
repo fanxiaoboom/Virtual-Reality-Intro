@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 27.896 18.388">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00ffae;
+      }
+    </style>
+  </defs>
+  <g id="hambergur_menu" transform="translate(-327.288 -80)">
+    <g id="Group_100" data-name="Group 100" transform="translate(327.288 80)">
+      <ellipse id="Ellipse_4" data-name="Ellipse 4" class="cls-1" cx="1.226" cy="1.021" rx="1.226" ry="1.021" transform="translate(25.445 0.977)"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="23.797" height="4.027" rx="2.014" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_101" data-name="Group 101" transform="translate(327.288 87.168)">
+      <ellipse id="Ellipse_7" data-name="Ellipse 7" class="cls-1" cx="1.226" cy="1.021" rx="1.226" ry="1.021" transform="translate(25.445 0.977)"/>
+      <rect id="Rectangle_8" data-name="Rectangle 8" class="cls-1" width="23.797" height="4.027" rx="2.014" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_102" data-name="Group 102" transform="translate(327.288 94.361)">
+      <ellipse id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="1.226" cy="1.021" rx="1.226" ry="1.021" transform="translate(25.445 0.977)"/>
+      <rect id="Rectangle_9" data-name="Rectangle 9" class="cls-1" width="23.797" height="4.027" rx="2.014" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>

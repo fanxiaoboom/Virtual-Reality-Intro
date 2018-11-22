@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 88">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00ffae;
+        font-size: 70px;
+        font-family: SourceSansPro-Black, Source Sans Pro;
+        font-weight: 800;
+        letter-spacing: 0.05em;
+      }
+    </style>
+  </defs>
+  <text id="FUTURE" class="cls-1" transform="translate(0 69)"><tspan x="0" y="0">FUTURE</tspan></text>
+</svg>

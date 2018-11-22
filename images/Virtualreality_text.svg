@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 579 112">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00ffae;
+        font-size: 89px;
+        font-family: SourceSansPro-Black, Source Sans Pro;
+        font-weight: 800;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <text id="Virtual_Reality" data-name="Virtual Reality" class="cls-1" transform="translate(290 88)"><tspan x="-288.805" y="0">V</tspan><tspan class="cls-2" y="0">irtual</tspan><tspan y="0" xml:space="preserve"> R</tspan><tspan class="cls-2" y="0">eality</tspan></text>
+</svg>

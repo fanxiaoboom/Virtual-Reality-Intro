@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1281.773 235.451">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #00ffae;
+      }
+
+      .cls-1 {
+        font-size: 41px;
+        font-family: SourceSansPro-Black, Source Sans Pro;
+        font-weight: 800;
+      }
+
+      .cls-2, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #00ffae;
+      }
+
+      .cls-4 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_199" data-name="Group 199" transform="translate(266.826 -2360)">
+    <g id="Group_137" data-name="Group 137" transform="translate(-58 2360)">
+      <g id="Group_133" data-name="Group 133" transform="translate(340.876 44.417)">
+        <text id="Challenge" class="cls-1" transform="translate(91 40)"><tspan x="-91.43" y="0">Challenge</tspan></text>
+      </g>
+      <g id="Ellipse_30" data-name="Ellipse 30" class="cls-2" transform="translate(313.641)">
+        <circle class="cls-4" cx="117.725" cy="117.725" r="117.725"/>
+        <circle class="cls-5" cx="117.725" cy="117.725" r="117.225"/>
+      </g>
+      <g id="Group_134" data-name="Group 134" transform="translate(504.285 120.352)">
+        <path id="Path_100" data-name="Path 100" class="cls-3" d="M-209.065,35.142H221.227L264.713,0H-209.065Z" transform="translate(359.596 35.142) rotate(180)"/>
+      </g>
+      <g id="Group_135" data-name="Group 135" transform="translate(359.596 236.32) rotate(180)">
+        <path id="Path_101" data-name="Path 101" class="cls-3" d="M-208.826,0H221.227l43.486,35.142h-473.54Z" transform="translate(359.596 115.968) rotate(180)"/>
+      </g>
+    </g>
+    <path id="Intersection_5" data-name="Intersection 5" class="cls-3" d="M117.726,117.726A117.726,117.726,0,0,1,0,0H235.45A117.725,117.725,0,0,1,117.726,117.726Z" transform="translate(255.641 2477.725)"/>
+  </g>
+</svg>
